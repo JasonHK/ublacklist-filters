@@ -1,0 +1,5 @@
+# JasonHK’s Fandom.com Filter
+# Remove Fandom.com counterpart from the search results if there is better alternative.
+
+*://minecraft.fandom.com/*
+*://runescape.fandom.com/*
