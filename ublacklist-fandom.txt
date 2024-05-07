@@ -2,4 +2,5 @@
 # Remove Fandom.com counterpart from the search results if there is better alternative.
 
 *://minecraft.fandom.com/*
+*://minecraft-archive.fandom.com/*
 *://runescape.fandom.com/*
